@@ -1,0 +1,10 @@
+name
+cpu
+disk
+diskio
+kernel
+mem
+netstat
+processes
+swap
+system

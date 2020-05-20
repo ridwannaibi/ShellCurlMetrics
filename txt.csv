@@ -1,0 +1,10 @@
+name,tags,name
+measurements,,cpu
+measurements,,disk
+measurements,,diskio
+measurements,,kernel
+measurements,,mem
+measurements,,netstat
+measurements,,processes
+measurements,,swap
+measurements,,system
